@@ -1,5 +1,4 @@
-
-# Day 09 - Debugging Examples
+Day_09_Exception_Handling/debugging_examples.md
 
 ## 1. Syntax Error
 
