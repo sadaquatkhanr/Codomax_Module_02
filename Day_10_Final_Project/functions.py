@@ -1,7 +1,6 @@
 
 """
 Student Record Management System
-Codomax Digital - Module 02
 """
 
 import csv
