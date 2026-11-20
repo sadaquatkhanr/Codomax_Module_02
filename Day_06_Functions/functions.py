@@ -1,7 +1,7 @@
 
 # 1. Simple Function
 def greet_student():
-    print("Welcome to The Sadaquat's!")
+    print("Welcome to Python Module 02!")
 
 
 # 2. Function with Parameters
